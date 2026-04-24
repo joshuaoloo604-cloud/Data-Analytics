@@ -1,2 +1,1 @@
-# Data-Analytics
-Data Science
+Hospital Management System
