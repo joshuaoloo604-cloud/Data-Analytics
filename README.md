@@ -1,1 +1,1 @@
-Hospital Management System
+Smart Hospital Management System with Analytics Dashboard
